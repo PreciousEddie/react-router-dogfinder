@@ -1,0 +1,8 @@
+.NavBar a.active {
+  color: darkgoldenrod;
+  font-weight: bold;
+}
+
+.NavBar-link {
+  margin: 0px 10px;
+}
